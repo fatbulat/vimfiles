@@ -16,6 +16,14 @@ au FileType haml set shiftwidth=2
 au FileType haml set softtabstop=2
 au FileType haml set tabstop=2
 
+au FileType scss set shiftwidth=2
+au FileType scss set softtabstop=2
+au FileType scss set tabstop=2
+
+au FileType yaml set shiftwidth=2
+au FileType yaml set softtabstop=2
+au FileType yaml set tabstop=2
+
 au FileType erlang set shiftwidth=4
 au FileType erlang set softtabstop=4
 au FileType erlang set tabstop=4
@@ -27,3 +35,7 @@ au FileType haskell set tabstop=2
 au FileType clojure set shiftwidth=2
 au FileType clojure set softtabstop=2
 au FileType clojure set tabstop=2
+
+au FileType cpp set shiftwidth=4
+au FileType cpp set tabstop=4
+au FileType cpp set noexpandtab
