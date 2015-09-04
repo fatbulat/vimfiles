@@ -4,6 +4,8 @@ set nocompatible
 
 set ruler
 
+set number
+
 set showcmd
 
 set incsearch
